@@ -1,3 +1,3 @@
-# javascript_projects
+# Javascript projects
 
 This repository contains simple javascript projects
